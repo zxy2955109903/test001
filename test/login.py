@@ -11,3 +11,5 @@ num3 = 30
 num4 = 40
 
 >>>>>>> fb7643b4b85ddc0065edd11e02deec9e7dfe5c68
+
+num5 = 50
